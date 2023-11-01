@@ -97,7 +97,6 @@ I then created a custom log in Log Anyalytics named 'FAILED_RDP_WITH_GEO_CL' tha
 <br />
 <img src="https://i.imgur.com/UC1Lb1d.png" height="80%" width="80%"/> <br />
 <img src="https://i.imgur.com/14SVPZ1.png" height="80%" width="80%"/> <br />
-<br />
 Data Extraction and Visualization:<br />
 In Microsoft Sentinel I used Kusto Query Language (KQL) to run the query below & extract the relevant fields. I then had Sentinel display the data visually with a Map and saved it as a workspace that would auto-refresh itself & populate it with new data.<br />
 <br />
